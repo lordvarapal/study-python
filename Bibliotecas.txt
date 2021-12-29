@@ -1,0 +1,35 @@
+..::  Bibliotecas ::..
+
+-Criação de sites e API
+Requests
+Flask (framework) light - flexivel e simples
+django (robusto) pesado - estrutura mais complexa
+
+-Ciencia de Dados e IA
+NumPy (obrigatorio)
+pandas (obrigatorio)
+plotly (grafico) tem extensão DASH
+streamlit (grafico)
+seaborn (grafico)
+matplotlib (grafico)
+
+---IA
+keras
+tensorflow
+opencv (tratamento de img e video - reconhecimento facial)
+pillow (foco na img)
+scikit-learn (obrigatorio)
+nltk (tratamento de linguagem - analise de sentimento)
+pytorch (acelerar processamento - aprender base de dados)
+
+-Automações
+pyautogui (obrigatorio) automação desktop
+selenium-python (obrigatorio) automação web
+scrapy
+pyodbc (ingração com banco de dados)
+pywin32 (automatizar muita coisa do windows)
+
+-Interface Grafica GUI
+kivy (criação de tela) pode ser usado em qualquer SO
+tkinter - ja vem instalado, pratico e simples
+pyqt5 - criar telas pra programas
